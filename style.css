@@ -1,10 +1,6 @@
 /* CSS files add styling rules to your content */
 /* I like the Comic Sans MS font a lot */
 
-head {
-  background-image: url("Screenshot 2019-07-06 at 13.42.51.png");
-}
-
 body {
   font-family: "Comic Sans MS", "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 3em;
