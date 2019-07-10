@@ -4,7 +4,7 @@
 body { /* Main Part of the website */
   font-family: "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 2em;
-  background-color: gray;
+  background-color: #545454;
 }
 
 h1 { /* Headings */
