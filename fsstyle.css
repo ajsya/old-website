@@ -2,7 +2,7 @@
 /* Stylesheet for The Frost Shop's page */
 
 body { /* Main Part of the website */
-  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  font-family: "Bebas Neue", helvetica, arial, sans-serif;
   margin: 2em;
   background-color: #545454;
 }
@@ -10,4 +10,9 @@ body { /* Main Part of the website */
 h1 { /* Headings */
   font-style: bold;
   color: #4398FF;
+}
+
+p { /* paragraths */
+  font-style: bold;
+  color: white;
 }
