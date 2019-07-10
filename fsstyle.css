@@ -1,0 +1,13 @@
+/* CSS files add styling rules to your content */
+/* I like the Comic Sans MS font a lot */
+
+body { /* Main Part of the website */
+  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+  background-color: lightblue;
+}
+
+h1 { /* Headings */
+  font-style: bold;
+  color: #4398FF;
+}
