@@ -11,3 +11,11 @@ h1 {
   font-style: bold;
   color: #FF4343;
 }
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
