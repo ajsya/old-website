@@ -11,3 +11,12 @@ h1 { /* Headings */
   font-style: bold;
   color: #4398FF;
 }
+
+.header {
+  padding: 20px;
+  text-align: center;
+  background: rgb(136,149,255);
+  background: linear-gradient(0deg, rgba(136,149,255,1) 0%, rgba(0,80,255,1) 100%);
+  color: white;
+  font-size: 30px;
+}
