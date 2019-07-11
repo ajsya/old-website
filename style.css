@@ -1,15 +1,9 @@
 /* CSS files add styling rules to your content */
 /* I like the Comic Sans MS font a lot */
 
-head {
-  font-family: "Comic Sans MS", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: none;
-  background-color: #FF4C4C;
-}
-
 body {
   font-family: "Comic Sans MS", "Helvetica Neue", helvetica, arial, sans-serif;
-  margin: 3em;
+  margin: none;
   background-color: #FF4C4C;
 }
 
