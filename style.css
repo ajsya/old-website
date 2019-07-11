@@ -13,6 +13,7 @@ h1 {
 }
 
 .header {
+  padding: 10px;
   text-align: center;
   background: rgb(255,136,136);
   background: linear-gradient(0deg, rgba(255,136,136,1) 16%, rgba(255,0,0,1) 82%);
