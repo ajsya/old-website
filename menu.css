@@ -23,8 +23,12 @@
 
 #head_title {
   float: left;
-	color: white;
-	margin-top: 0px;
-	padding-top: 10px;
-	padding-left: 20px;
+  color: white;
+  margin-top: 0px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+#head_home {
+  padding: 3px;
+  float: left;
 }
