@@ -12,6 +12,12 @@ h1 {
   color: #FF4343;
 }
 
+/*For Menu */
+h2 {
+  font-style: bold;
+  color: white;
+}
+
 .header {
   padding: 25px;
   text-align: center;
