@@ -9,7 +9,7 @@ body {
 
 h1 {
   font-style: bold;
-  color: #FF4343;
+  color: white;
 }
 
 /*For Menu */
@@ -21,6 +21,7 @@ h2 {
 p {
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
   color: white;
+  margin: 1.0em;
 }
 
 sup {
