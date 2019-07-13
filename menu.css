@@ -3,7 +3,9 @@
 	color: white;
 	font-size: 20px;
 	width: 100%;
-	height: 60px;
+	height: 60px;    box-shadow: 0 -1px 20px 0 black;
+	position:sticky;
+	top:0;
 	}
 #head_home {
 	padding: 3px;
