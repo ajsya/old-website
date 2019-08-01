@@ -40,6 +40,6 @@
 	font-size: 20px;
 	width: 100%;
 	height: 60px;
-	position: Fixed;
+	position: absolute;
 	bottom: 0px;
 	}
