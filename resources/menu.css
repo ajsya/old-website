@@ -44,3 +44,11 @@
 	padding:0;
 	bottom:0;
 	}
+
+#footer_title {
+	float: left;
+	color: white;
+	margin-bottom: 0px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	}
