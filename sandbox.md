@@ -8,7 +8,9 @@ code:
 code  
 ```  
 `inline` code
-[Link](https://ajsya.github.io)
+
+[Here is a link!](https://ajsya.github.io)
+
 <b>Html works too!</b>  
 **bold**  
 _italic_  
