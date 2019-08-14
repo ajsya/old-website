@@ -7,7 +7,8 @@ code:
 ```
 code  
 ```  
-`inline` code  
+`inline` code
+[Link](https://ajsya.github.io)
 <b>Html works too!</b>  
 **bold**  
 _italic_  
