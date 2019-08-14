@@ -1,5 +1,5 @@
-This is a subpage of my website featuring my Scratch Projects. It can be found at ajsya.github.io/Project (I think)
+# ajsya.github.io/Project
 
-WARNING: This may crash your browser!
+This is a subpage of my website featuring my Scratch Projects. It can be found at [http://ajsya.github.io/Project](http://ajsya.github.io/Project)
 
-If it does... sorry, I'm working on it.
+**WARNING:** This page may crash your browser!
