@@ -19,3 +19,9 @@ _italic_
 # Hello, this is level heading 1
 ### _And This is 3 in intalics_
 Make sure that you have spaces between text and the group of # hashes
+
+# HTML Code
+Here is some HTML Code to use for later. For a complete file example go to, [Example.html](https://ajsya.github.io/Example.html)
+## Redirect
+
+    <meta http-equiv = "refresh" content = "0; url = https://ajsya.github.io" />
