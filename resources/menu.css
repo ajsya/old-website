@@ -1,3 +1,4 @@
+/*Navbar*/
 .navbar {
 	background: #FF8888;
 	color: white;
@@ -51,4 +52,23 @@
 	margin-bottom: 0px;
 	padding-bottom: 0px;
 	padding-left: 20px;
+	}
+
+/*Header*/
+.header {
+	background: #FF8888;
+	color: white;
+	font-size: 20px;
+	width: 100%;
+	height: 180px;    
+	position: relative;
+	top:0;
+	}
+
+#title {
+	float: center;
+	color: white;
+	font-size: 80;
+	margin-top: 0px;
+	padding-top: 60px;
 	}
