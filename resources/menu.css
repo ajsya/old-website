@@ -34,6 +34,10 @@
 	padding-left: 20px;
 	}
 
+h2 {
+  font-style: bold;
+  color: white;
+}
 /*Footer*/
 .footer {
 	background: #FF8888;
