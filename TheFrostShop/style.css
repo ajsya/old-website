@@ -1,0 +1,16 @@
+body {
+  font-family: "Comic Sans MS", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 0.0em;
+  background-color: #545454; /*Frost Shop Gray Color*/
+}
+
+h1 {
+  font-style: bold;
+  color: white;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: #8d8a8a;
+}
