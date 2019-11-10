@@ -6,8 +6,15 @@ body {
 
 h1 {
   font-style: bold;
+  color: white;
+  font-family: "Tahoma";
+}
+
+hf {
+  font-style: bold;
   color: #545454;
   font-family: "Tahoma";
+  font-size: 36;
 }
 
 p {
