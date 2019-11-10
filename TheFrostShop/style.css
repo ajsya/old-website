@@ -4,13 +4,7 @@ body {
   background-color: #545454; /*The Frost Shop Clasic Gray Color*/
 }
 
-.hf {
-  font-style: bold;
-  color: white;
-  font-family: "Tahoma";
-}
-
-hf {
+h {
   font-style: bold;
   color: #545454;
   font-family: "Tahoma";
