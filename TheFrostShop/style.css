@@ -1,12 +1,18 @@
 body {
-  font-family: "Comic Sans MS", "Helvetica Neue", helvetica, arial, sans-serif;
+  font-family: "Helvetica Neue", helvetica, arial, sans-serif;
   margin: 0.0em;
-  background-color: #545454; /*Frost Shop Gray Color*/
+  background-color: #545454; /*The Frost Shop Clasic Gray Color*/
 }
 
 h1 {
   font-style: bold;
+  color: #545454;
+  font-family: "Tahoma";
+}
+
+p {
   color: white;
+  font-family: Sans-serif;
 }
 
 .header {
