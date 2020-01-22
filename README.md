@@ -5,4 +5,4 @@ I made this website so that I could experiment and just create above all. It's n
 
 ## Page Index
 
-The page index is currently in development. It is located at [Page_Index.md](https://ajsya.github.io/Page_Index.md)
+The page index is currently in development. It is located at [Page_Index.md](https://ajsya.github.io/Page_Index)
