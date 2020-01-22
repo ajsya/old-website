@@ -1,6 +1,39 @@
 <!DOCTYPE HTML>
 <html>
+<head>
+    <title>Python Minecraft Age Converter | ajsya.github.io</title>
+    <link rel="icon" href="resources/ajsyapfp.png">
+    
+    <style>      
+       .backButton {
+        background-color: #FF4C4C;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-family: "Comic Sans MS", "Helvetica Neue", helvetica, arial, sans-serif;
+      }
+
+      .backButton:hover {
+       background-color: #FF8888;
+        color: white;
+      }
+    </style>
+  </head>
   <body>
-    <iframe src="https://trinket.io/embed/python/cd7d77c5cc?outputOnly=true&runOption=run&start=result&showInstructions=true" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+    <iframe src="https://trinket.io/embed/python/cd7d77c5cc?outputOnly=true&runOption=run&start=result&showInstructions=true" 
+    width="100%" 
+    height="500" 
+    frameborder="0" 
+    marginwidth="1" 
+    marginheight="1" 
+    allowfullscreen>
+    </iframe><br />
+    <center><a href="https://ajsya.github.io" class="backButton">Back</a></center>
   </body>
 </html>
