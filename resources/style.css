@@ -33,3 +33,22 @@ a {
 sup {
   margin: 1.5em;
 }
+
+.Button {
+        background-color: #FF4C4C;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        border-radius: 8px;
+        text-decoration: none;
+        font-family: "Comic Sans MS", "Helvetica Neue", helvetica, arial, sans-serif;
+      }
+
+      .Button:hover {
+       background-color: #FF8888;
+        color: white;
+      }
