@@ -35,7 +35,7 @@ sup {
 }
 
 .Button {
-        background-color: #FF4C4C;
+        background-color: #FF8888;
         border: none;
         color: white;
         padding: 15px 32px;
@@ -49,6 +49,6 @@ sup {
       }
 
       .Button:hover {
-       background-color: #FF8888;
+       background-color: #CC7171;
         color: white;
       }
