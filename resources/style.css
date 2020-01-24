@@ -23,7 +23,11 @@ h3 {
 p {
   font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
   color: white;
-  margin: 1.0em;
+  margin: 0.0em;
+}
+
+a {
+ color: #404040; 
 }
 
 sup {
