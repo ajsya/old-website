@@ -6,6 +6,7 @@
 - [Python Message Encrypter](https://ajsya.github.io/Projects/Encrypter)
 - [Python Minecraft Age Converter](https://ajsya.github.io/Projects/Minecraft-Age_Converter)
 - [Javascript Minecraft Age Converter](https://ajsya.github.io/Projects/minecraft-age)
+- [MadLibs created with Python](https://ajsya.github.io/Projects/MadLibs)
 - [Old Downloads Page](https://ajsya.github.io/downloads)
 - [Laggy Page About My Scratch Projects](https://ajsya.github.io/Projects/Scratch)
 - [Derpy Suprise](https://ajsya.github.io/beautiful-birb)
