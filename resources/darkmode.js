@@ -10,9 +10,17 @@ function myFunction() {
 }
 
 function regular() {
-  document.getElementById('body').style.background = 'white'
+  document.getElementById('body').style.background = '#FF4C4C'
+  document.getElementById('navbar').style.background = '#FF8888'
+  document.getElementById('b1').style.background = '#FF8888'
+  document.getElementById('b2').style.background = '#FF8888'
+  document.getElementById('b3').style.background = '#FF8888'
 }
 
-function darkmode() {
+function darkmode() {#202020
   document.getElementById('body').style.background = '#474747'
+  document.getElementById('navbar').style.background = '#FF8888'
+  document.getElementById('b1').style.background = '#FF8888'
+  document.getElementById('b2').style.background = '#FF8888'
+  document.getElementById('b3').style.background = '#FF8888'
 }
