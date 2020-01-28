@@ -17,7 +17,7 @@ function regular() {
   document.getElementById('b3').style.background = '#FF8888'
 }
 
-function darkmode() {#202020
+function darkmode() {
   document.getElementById('body').style.background = '#474747'
   document.getElementById('navbar').style.background = '#FF8888'
   document.getElementById('b1').style.background = '#FF8888'
