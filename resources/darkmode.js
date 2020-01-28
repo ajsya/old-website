@@ -1,7 +1,14 @@
+var mode = localStorage.getItem("mode");
+if (mode == "darkmode") {
+  darkmode()
+}
+if (mode == "regular") {
+  regular()
+}
+
 function myFunction() {
   var Checkbox = document.getElementById("Checkbox");
 
-  // If the checkbox is checked, display the output text
   if (Checkbox.checked == true){
     darkmode()
   } if (Checkbox.checked == false) {
