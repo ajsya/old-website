@@ -10,8 +10,9 @@
 - [Old Downloads Page](https://ajsya.github.io/downloads)
 - [Laggy Page About My Scratch Projects](https://ajsya.github.io/Projects/Scratch)
 - [Derpy Suprise](https://ajsya.github.io/beautiful-birb)
-- [Derp Calculator](https://ajsya.github.io/derp-calculator)
+- [Derp Calculator](https://ajsya.github.io/Projects/derp-calculator)
 - [Joke Website for Friend](https://ajsya.github.io/copymachine34)
 - [Joke Website for "Friend" lol](https://ajsya.github.io/potatogod3000)
+- [Dark Mode Test](https://ajsya.github.io/darkmode)
 
 That's about it. That will give you a lot to look at for now.
