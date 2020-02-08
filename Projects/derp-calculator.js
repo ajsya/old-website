@@ -1,0 +1,12 @@
+function myFunction() {
+  var number1 = parseInt(document.getElementById("number1").value);
+  var number2 = parseInt(document.getElementById("number2").value);
+  if (number1 === NaN || number2 === NaN) {
+    document.getElementById("answer").innerHTML = "You must be Ben, you forgot to enter a number!"
+  }
+  else {
+    var number = (number1 * number2); 
+    var output = (number + number2);
+    document.getElementById("answer").innerHTML = "The answer to " + number1 + " times " + number2 + " is, " + output + " in Derp Math."; 
+  }
+}
