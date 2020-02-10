@@ -5,8 +5,13 @@ function myFunction() {
     document.getElementById("answer").innerHTML = "You must be Ben, you forgot to enter a number!"
   }
   else {
-    var number = (number1 + number2); 
-    var output = (number + number2);
+    var number = (number1 + number2);
+    if (number1 < number2) {
+      var output = (number + number1);
+    }
+    if (number2 < number1) {
+      var output = (number + number2);
+    }
     document.getElementById("answer").innerHTML = "The answer to " + number1 + " plus " + number2 + " is, " + output + " in Derp Math."; 
   }
 }
