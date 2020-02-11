@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Offical Derp Calculator DC-0.2.5 Beta</title>
+    <title>Offical Derp Calculator DC-0.4.1 Beta</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,22 +15,22 @@
   <body>
     <center>
       <div class="heading">
-        <h1>Derp Calculator DC Series 0.2.5 Beta</h1>
+        <h1>Derp Calculator DC Series 0.4.1 Beta</h1>
       </div>
     
       <p class="description">
-        Welcome to the Derp Calculator where you can do basic addition problems easily. <br /><br />
-        First enter your first number in the first blank, then your second number in the second blank and click the calculate button to get your answer!
+        Welcome to the Derp Calculator where you can do basic addition, subtraction, and muiltiplacation problems easily. <br /><br />
+        First enter your first number in the first blank, then your second number in the second blank and click the correct operation button for your problem to get your answer!
       </p><br /><br />
       
       <div class="form">
         <input type="number" id="number1"><br />
         <input type="number" id="number2"><br /><br />
-        <button class="button" onclick="myFunction()">Calculate</button>
+        <button class="button" onclick="add()">Add</button>
+        <button class="button" onclick="subtract()">Subtract</button>
+        <button class="button" onclick="multiply">Muiltiply</button>
       </div><br /><br />
-      <p id="answer">
-        
-      </p>
+      <p id="answer"></p>
     </center>
   </body>
 </html>
